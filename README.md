@@ -32,6 +32,7 @@ Add some meta info of your built firmware (such as firmware architecture and ins
 - [Cowtransfer](https://cowtransfer.com)
 - [WeTransfer](https://wetransfer.com/)
 - [Mikubill/transfer](https://github.com/Mikubill/transfer)
+- [OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi/blob/main/config/offical/bcm27xx/rpi4-offical-target.config)
 
 ## License
 

@@ -1,6 +1,6 @@
 # OpenWrt-rpi4
-- IPADRR 
-192.168.2.1
+- IPADRR
+> 192.168.2.1
 - [.config](./.config)
 # Actions-OpenWrt
 
